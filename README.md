@@ -30,7 +30,7 @@ cd opennfr
 
 8 - Clone oe-alliance git
 
-git clone git://github.com/oe-alliance/build-enviroment.git -b 4.3
+git clone git://github.com/oe-alliance/build-enviroment.git -b 6.5
 
 9 - Switch to folder build-enviroment
 
